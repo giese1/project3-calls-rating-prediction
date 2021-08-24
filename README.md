@@ -1,4 +1,4 @@
-# project3-calls-rating-prediction
+# Project3-calls-rating-prediction
 
 #This is a data science project using R with the main objective to use machine learning to predict india voice calls rating
 
